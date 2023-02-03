@@ -1,0 +1,94 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Verdana;
+        }
+
+        .top-section {
+            padding: 20px;
+            background-color: #003877;
+        }
+
+        .link-section {
+            padding: 20px;
+            text-align: center;
+            background: #F5F6F6;
+        }
+
+        .link-section a {
+            color: #110D0D;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+        .text-box {
+            color: white;
+        }
+
+        .quick-link {
+    padding: 25px 60px;
+    width: 100%;
+    float: left;
+    background: #F6F7F8;
+        }
+
+        .quick-link h3 {
+            font-size: 18px;
+            color: black;
+        }
+
+        .syllabus {
+            padding: 40px;
+            background-color: #F5F6F6;
+        }
+        .about-section{
+            padding: 40px;
+        }
+        .bottom-section{
+            color: white;
+            padding: 15px 60px;
+        }
+
+        .td-padding{
+            padding: 12px;
+        }
+        .td-heading{
+            font-size: 18px;
+        }
+
+
+        .Placement{
+            padding: 40px;
+        }
+
+
+        .quick-link1{
+            width: 25%;
+            float: left;
+        }
+        .quick-link2{
+            width: 25%;
+            float: left;
+        }
+        .location{
+            width: 25%;
+            float: right;
+        }
+        .call-now{
+            width: 25%;
+            float: right;
+        }
+        .bottom-link{
+            display: block;
+            color: #110D0D;
+            padding: 8px;
+            text-decoration: none;
+            font-size: 17px;
+        }
